@@ -1,6 +1,6 @@
 # <!--Title-->Excel_Analytic_Projects
 
-<!--## Description-->An accumulation of beginner Data analytic projects using Microsoft Excel.
+<!--## Description-->An accumulation of Data analytic projects using Microsoft Excel.
 
 ## Dependencies
 
